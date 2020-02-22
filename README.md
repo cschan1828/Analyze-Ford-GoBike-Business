@@ -1,5 +1,4 @@
 # Ford GoBike System Data
-## by Ching-Shun Chan
 
 ### Data Source
 https://www.lyft.com/bikes/bay-wheels/system-data
